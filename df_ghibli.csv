@@ -1,0 +1,90 @@
+character_name,age,height,special_powers,country,gender,species,movie,release_date
+Totoro,1302,215,Flight,Japan,Male,Spirit,My Neighbor Totoro,1988
+Totoro,1302,215,teleportation,Japan,Male,Spirit,My Neighbor Totoro,1988
+Chihiro,10,120,None,Japan,Female,Human,Spirited Away,2001
+Haku,12,180,Flight,Japan,Male,Spirit (dragon),Spirited Away,2001
+Haku,12,180,shapeshifting,Japan,Male,Spirit (dragon),Spirited Away,2001
+Princess Mononoke,15,150,None,Japan,Female,Human,Princess Mononoke,1997
+Ashitaka,17,170,Super strength,Japan,Male,Human,Princess Mononoke,1997
+Ashitaka,17,170,agility,Japan,Male,Human,Princess Mononoke,1997
+Satsuki,4,110,None,Japan,Female,Human,My Neighbor Totoro,1988
+Mei,2,100,None,Japan,Female,Human,My Neighbor Totoro,1988
+Jiji,13,20,Shapeshifting,Japan,Male,Cat,Kiki's Delivery Service,1989
+Kiki,13,130,Flight,Japan,Female,Witch,Kiki's Delivery Service,1989
+Kiki,13,130,broomstick flying,Japan,Female,Witch,Kiki's Delivery Service,1989
+Howl,27,180,Shapeshifting,Wales,Male,Wizard,Howl's Moving Castle,2004
+Howl,27,180,flight,Wales,Male,Wizard,Howl's Moving Castle,2004
+Howl,27,180,magic,Wales,Male,Wizard,Howl's Moving Castle,2004
+Sophie,18,150,None,Europe,Female,Human,Howl's Moving Castle,2004
+Calcifer,67,30,Fire manipulation,Wales,Male,Fire demon,Howl's Moving Castle,2004
+Nausicaä,16,150,Telepathy,Japan,Female,Human,Nausicaä of the Valley of the Wind,1984
+Nausicaä,16,150,communication with insects,Japan,Female,Human,Nausicaä of the Valley of the Wind,1984
+Ningyo,67,120,None,Japan,Male,Mermaid-like creature,When Marnie Was There,2014
+San,15,150,Super strength,Japan,Female,Wolf goddess,Princess Mononoke,1997
+San,15,150,agility,Japan,Female,Wolf goddess,Princess Mononoke,1997
+San,15,150,communication with wolves,Japan,Female,Wolf goddess,Princess Mononoke,1997
+Pazu,10,120,None,Europe,Male,Human,Castle in the Sky,1986
+Sheeta,10,120,Telekinesis,Europe,Female,Human,Castle in the Sky,1986
+Sheeta,10,120,control over levitation crystals,Europe,Female,Human,Castle in the Sky,1986
+Shizuku,12,120,None,Japan,Female,Human,Whisper of the Heart,1995
+Seiji,12,120,None,Japan,Male,Human,Whisper of the Heart,1995
+Baron Humbert von Gikkingen,23,180,Shapeshifting into a cat,Europe,Male,Human cat,The Cat Returns,2002
+Haru,14,150,Shapeshifting into a cat,Japan,Female,Human,The Cat Returns,2002
+Muta,67,40,Shapeshifting into a cat,Japan,Male,Cat,The Cat Returns,2002
+Ponyo,5,80,Shapeshifting into a fish,Japan,Female,Fish,Ponyo,2008
+Sosuke,5,100,None,Japan,Male,Human,Ponyo,2008
+Rin,23,150,Shape-shifting,Japan,Male,Human,Spirited Away,2001
+Rin,23,150,size manipulation,Japan,Male,Human,Spirited Away,2001
+Arren,17,170,Super strength,Europe,Male,Human,The Tale of the Princess Kaguya,2013
+Arren,17,170,agility,Europe,Male,Human,The Tale of the Princess Kaguya,2013
+Arren,17,170,telekinesis,Europe,Male,Human,The Tale of the Princess Kaguya,2013
+Princess Kaguya,67,150,Super strength,Japan,Female,Moon princess,The Tale of the Princess Kaguya,2013
+Princess Kaguya,67,150,agility,Japan,Female,Moon princess,The Tale of the Princess Kaguya,2013
+Princess Kaguya,67,150,telekinesis,Japan,Female,Moon princess,The Tale of the Princess Kaguya,2013
+Okkoto,500,200,Super strength,Japan,Male,Boar god,The Tale of the Princess Kaguya,2013
+Okkoto,500,200,agility,Japan,Male,Boar god,The Tale of the Princess Kaguya,2013
+Okkoto,500,200,shapeshifting into a boar,Japan,Male,Boar god,The Tale of the Princess Kaguya,2013
+Lily,67,100,None,Europe,Female,Human,When Marnie Was There,2014
+Marnie,12,150,None,Europe,Female,Human,When Marnie Was There,2014
+Anna,11,140,None,Europe,Female,Human,When Marnie Was There,2014
+Lettie,16,130,None,Europe,Female,Human,When Marnie Was There,2014
+Red,67,120,None,Europe,Male,Human,When Marnie Was There,2014
+No-Face,67,180,Shape-shifting,Japan,Male,Spirit,Spirited Away,2001
+No-Face,67,180,size manipulation,Japan,Male,Spirit,Spirited Away,2001
+Yubaba,200,150,Shape-shifting,Japan,Female,Human,Spirited Away,2001
+Yubaba,200,150,size manipulation,Japan,Female,Human,Spirited Away,2001
+Kamaji,40,150,Shape-shifting,Japan,Male,Human,Spirited Away,2001
+Kamaji,40,150,size manipulation,Japan,Male,Human,Spirited Away,2001
+Zeniba,200,150,Shape-shifting,Japan,Female,Human,Spirited Away,2001
+Zeniba,200,150,size manipulation,Japan,Female,Human,Spirited Away,2001
+Ursula,18,170,Shape-shifting,Europe,Female,Human,Kiki's Delivery Service,1989
+Ursula,18,170,size manipulation,Europe,Female,Human,Kiki's Delivery Service,1989
+Tombo,13,130,None,Japan,Male,Human,Kiki's Delivery Service,1989
+Shishigami,67,180,Shape-shifting,Japan,Male,Forest spirit,Princess Mononoke,1997
+Shishigami,67,180,size manipulation,Japan,Male,Forest spirit,Princess Mononoke,1997
+Lasseter,10,170,Shape-shifting,Japan,Male,Human,Howl's Moving Castle,2004
+Lasseter,10,170,size manipulation,Japan,Male,Human,Howl's Moving Castle,2004
+Turnip Head,25,120,Shape-shifting,Wales,Male,Scarecrow,Howl's Moving Castle,2004
+Turnip Head,25,120,size manipulation,Wales,Male,Scarecrow,Howl's Moving Castle,2004
+Markl,15,120,Shape-shifting,Wales,Male,Human,Howl's Moving Castle,2004
+Markl,15,120,size manipulation,Wales,Male,Human,Howl's Moving Castle,2004
+Fanny,67,120,Shape-shifting,Wales,Female,Human,Howl's Moving Castle,2004
+Fanny,67,120,size manipulation,Wales,Female,Human,Howl's Moving Castle,2004
+Heen,67,120,Shape-shifting,Wales,Male,Human,Howl's Moving Castle,2004
+Heen,67,120,size manipulation,Wales,Male,Human,Howl's Moving Castle,2004
+Soot,67,120,Shape-shifting,Wales,Male,Human,Howl's Moving Castle,2004
+Soot,67,120,size manipulation,Wales,Male,Human,Howl's Moving Castle,2004
+Goro,67,120,Shape-shifting,Wales,Male,Human,Howl's Moving Castle,2004
+Goro,67,120,size manipulation,Wales,Male,Human,Howl's Moving Castle,2004
+Sosuke,5,100,Shape-shifting,Japan,Male,Human,Ponyo,2008
+Sosuke,5,100,size manipulation,Japan,Male,Human,Ponyo,2008
+Fujimoto,40,170,Shape-shifting,Japan,Male,Human,Ponyo,2008
+Fujimoto,40,170,size manipulation,Japan,Male,Human,Ponyo,2008
+Granmamma,67,150,Shape-shifting,Japan,Female,Human,Ponyo,2008
+Granmamma,67,150,size manipulation,Japan,Female,Human,Ponyo,2008
+Porco Rosso,36,136,None,Italy,Male,Human,Porco Rosso,1992
+Curtis,67,136,None,Italy,Male,Human,Porco Rosso,1992
+Gina,27,136,None,Italy,Female,Human,Porco Rosso,1992
+Setsuko,4,136,None,Japan,Female,Human,Grave of the Fireflies,1988
+Fio,17,160,None,Italy,Female,Human,Porco Rosso,1992
+Seita,14,136,None,Japan,Male,Human,Grave of the Fireflies,1988
